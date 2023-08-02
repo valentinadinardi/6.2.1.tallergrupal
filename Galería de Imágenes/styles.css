@@ -1,5 +1,7 @@
 body {
     background-color: rgb(255, 255, 165);
+    font-family: Georgia, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
 }
 
 .image{
