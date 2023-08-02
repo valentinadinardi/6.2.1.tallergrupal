@@ -21,3 +21,11 @@ h1 {
   color: rgb(68, 234, 31);
   text-shadow: -2px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
+
+.linkcolor {
+    color: green; 
+}
+
+.linkcolor:hover {
+    color: #58cb5d; 
+}
